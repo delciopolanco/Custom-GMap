@@ -1,0 +1,18 @@
+{
+  "name": "gogglemaps",
+  "version": "1.0.0",
+  "description": "googlemaps testing",
+  "main": "maps.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-server-livereload": "^1.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maps"
+  ],
+  "author": "delcio polanco",
+  "license": "ISC"
+}
